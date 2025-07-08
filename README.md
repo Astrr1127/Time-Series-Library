@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Time Series Library (TSLib)
 TSLib is an open-source library for deep learning researchers, especially for deep time series analysis.
 
@@ -171,3 +172,6 @@ All the experiment datasets are public, and we obtain them from the following li
 <a href="https://github.com/thuml/Time-Series-Library/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=thuml/Time-Series-Library" />
 </a>
+=======
+# Time-Series-Library
+>>>>>>> b17f7129d669bfa5223020d90ca9042af1173815
